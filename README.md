@@ -4,7 +4,7 @@ A full-featured Blinkit Clone Android application built using **Kotlin, XML, MVV
 This project replicates real-world grocery delivery functionality including authentication, admin management, real-time order tracking, and payment integration.
 
 ------------------------------------------------------------
-![Demo App](/drawable/maxresdefault-12.jpg)
+![Demo App](UserSideAssest/drawable/maxresdefault-12.jpg)
 ------------------------------------------------------------
 
 Perfect for:
